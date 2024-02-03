@@ -8,7 +8,7 @@ f = Fernet(clave)
 
 print(clave)
 
-token = f.encrypt(b'ya casi cumplimos 22 como Taylor, tqm')
+token = f.encrypt(b'te quiero sofi aunque tengas esmalte emo p')
 
 print(token)
 
